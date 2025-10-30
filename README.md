@@ -1,26 +1,15 @@
-# FitPro - Professional Fitness App
+# FitPro - Fitness App (Week 3)
 
-## Features
-- Modern gradient UI
-- 20 premium programs
-- Smooth animations
-- Feedback form with validation
-- Loading & error states
-- Success screen
+Professional Flutter app with:
 
-## Build APK
+- 20 fitness programs (from JSON)
+- Program listing & detail screens
+- Feedback form with validation (name, email, password ≥8)
+- Loading & error handling
+- Beautiful UI (gradients, cards, animations)
+- APK ready
+
+## Run
 ```bash
-flutter build apk --release
-
-
-## 13. `CHANGELOG.md`
-
-```markdown
-# Changelog
-
-## [3.0.0] - 2025-10-30
-- Added 20 mock programs
-- Program listing with JSON data
-- Feedback form with validation
-- Navigation + success screen
-- Loader & error handling
+flutter pub get
+flutter run
