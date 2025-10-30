@@ -1,0 +1,22 @@
+[
+  {"id":1,"title":"Sunrise Yoga","instructor":"Emma Stone","duration":"45 min","description":"Start your day with energizing yoga flows and deep stretches.","thumbnail":"https://picsum.photos/seed/yoga/400/300"},
+  {"id":2,"title":"HIIT Inferno","instructor":"Chris Hemsworth","duration":"30 min","description":"Burn max calories with high-intensity intervals.","thumbnail":"https://picsum.photos/seed/hiit/400/300"},
+  {"id":3,"title":"Power Strength","instructor":"Dwayne Johnson","duration":"60 min","description":"Build muscle with compound lifts and progressive overload.","thumbnail":"https://picsum.photos/seed/strength/400/300"},
+  {"id":4,"title":"Zen Pilates","instructor":"Lily Chen","duration":"40 min","description":"Core strength, flexibility, and mindful movement.","thumbnail":"https://picsum.photos/seed/pilates/400/300"},
+  {"id":5,"title":"Dance Fusion","instructor":"Shakira","duration":"50 min","description":"Cardio dance with Latin, hip-hop, and pop moves.","thumbnail":"https://picsum.photos/seed/dance/400/300"},
+  {"id":6,"title":"Mindful Meditation","instructor":"Deepak Chopra","duration":"20 min","description":"Reduce stress with guided breathwork and visualization.","thumbnail":"https://picsum.photos/seed/meditation/400/300"},
+  {"id":7,"title":"Kettlebell Warrior","instructor":"Joe Rogan","duration":"55 min","description":"Full-body power with kettlebell circuits.","thumbnail":"https://picsum.photos/seed/kettlebell/400/300"},
+  {"id":8,"title":"Barre Sculpt","instructor":"Misty Copeland","duration":"45 min","description":"Ballet-inspired toning for legs, glutes, and core.","thumbnail":"https://picsum.photos/seed/barre/400/300"},
+  {"id":9,"title":"Boxing Mastery","instructor":"Mike Tyson","duration":"35 min","description":"Learn punches, defense, and footwork.","thumbnail":"https://picsum.photos/seed/boxing/400/300"},
+  {"id":10,"title":"Recovery Flow","instructor":"Kelly Starrett","duration":"25 min","description":"Mobility and deep tissue release.","thumbnail":"https://picsum.photos/seed/recovery/400/300"},
+  {"id":11,"title":"Olympic Lifts","instructor":"Rich Froning","duration":"70 min","description":"Snatch, clean & jerk technique.","thumbnail":"https://picsum.photos/seed/olympic/400/300"},
+  {"id":12,"title":"Zumba Party","instructor":"Beto Perez","duration":"50 min","description":"Dance fitness with global rhythms.","thumbnail":"https://picsum.photos/seed/zumba/400/300"},
+  {"id":13,"title":"Functional Athlete","instructor":"David Goggins","duration":"45 min","description":"Real-world strength and conditioning.","thumbnail":"https://picsum.photos/seed/functional/400/300"},
+  {"id":14,"title":"Prenatal Wellness","instructor":"Dr. Jane","duration":"35 min","description":"Safe exercises for pregnancy.","thumbnail":"https://picsum.photos/seed/prenatal/400/300"},
+  {"id":15,"title":"TRX Pro","instructor":"Randy Hetrick","duration":"40 min","description":"Suspension training mastery.","thumbnail":"https://picsum.photos/seed/trx/400/300"},
+  {"id":16,"title":"Spin & Burn","instructor":"Robin Arzon","duration":"45 min","description":"Indoor cycling with sprints and climbs.","thumbnail":"https://picsum.photos/seed/spin/400/300"},
+  {"id":17,"title":"Kids Adventure","instructor":"Super Why","duration":"30 min","description":"Fun games and movement for kids.","thumbnail":"https://picsum.photos/seed/kids/400/300"},
+  {"id":18,"title":"Silver Fitness","instructor":"Jane Fonda","duration":"30 min","description":"Low-impact strength and balance.","thumbnail":"https://picsum.photos/seed/senior/400/300"},
+  {"id":19,"title":"CrossFit Games","instructor":"Mat Fraser","duration":"25 min","description":"Elite WOD for champions.","thumbnail":"https://picsum.photos/seed/crossfit/400/300"},
+  {"id":20,"title":"Trail Runner","instructor":"Kilian Jornet","duration":"60 min","description":"Endurance running with terrain drills.","thumbnail":"https://picsum.photos/seed/trail/400/300"}
+]

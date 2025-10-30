@@ -1,0 +1,22 @@
+[
+  {"id":1,"title":"Morning Yoga Flow","instructor":"Sarah Lee","duration":"45 min","description":"Gentle wake-up yoga with sun salutations.","thumbnail":"https://picsum.photos/seed/yoga1/300/200"},
+  {"id":2,"title":"HIIT Blast","instructor":"Mike Chen","duration":"30 min","description":"High-intensity interval training.","thumbnail":"https://picsum.photos/seed/hiit1/300/200"},
+  {"id":3,"title":"Strength Training","instructor":"Emma Watson","duration":"60 min","description":"Learn proper form with dumbbells.","thumbnail":"https://picsum.photos/seed/strength1/300/200"},
+  {"id":4,"title":"Pilates Core","instructor":"Lisa Kim","duration":"40 min","description":"Core-focused Pilates.","thumbnail":"https://picsum.photos/seed/pilates1/300/200"},
+  {"id":5,"title":"Cardio Dance","instructor":"Alex Rivera","duration":"50 min","description":"Fun dance cardio.","thumbnail":"https://picsum.photos/seed/dance1/300/200"},
+  {"id":6,"title":"Meditation","instructor":"Raj Patel","duration":"20 min","description":"Mindfulness and breathing.","thumbnail":"https://picsum.photos/seed/meditate1/300/200"},
+  {"id":7,"title":"Kettlebell Advanced","instructor":"John Doe","duration":"55 min","description":"Kettlebell swings.","thumbnail":"https://picsum.photos/seed/kettle1/300/200"},
+  {"id":8,"title":"Barre Fusion","instructor":"Nina Gomez","duration":"45 min","description":"Ballet-inspired toning.","thumbnail":"https://picsum.photos/seed/barre1/300/200"},
+  {"id":9,"title":"Boxing Basics","instructor":"Tony Stark","duration":"35 min","description":"Jabs, hooks, footwork.","thumbnail":"https://picsum.photos/seed/boxing1/300/200"},
+  {"id":10,"title":"Recovery Stretch","instructor":"Grace Hill","duration":"25 min","description":"Deep stretching.","thumbnail":"https://picsum.photos/seed/stretch1/300/200"},
+  {"id":11,"title":"Powerlifting 101","instructor":"Bruce Wayne","duration":"70 min","description":"Squat, bench, deadlift.","thumbnail":"https://picsum.photos/seed/power1/300/200"},
+  {"id":12,"title":"Zumba Fitness","instructor":"Maria Lopez","duration":"50 min","description":"Latin dance fitness.","thumbnail":"https://picsum.photos/seed/zumba1/300/200"},
+  {"id":13,"title":"Functional Fitness","instructor":"Chris Evans","duration":"45 min","description":"Real-world movements.","thumbnail":"https://picsum.photos/seed/func1/300/200"},
+  {"id":14,"title":"Prenatal Yoga","instructor":"Diana Prince","duration":"35 min","description":"Safe yoga for moms.","thumbnail":"https://picsum.photos/seed/prenatal1/300/200"},
+  {"id":15,"title":"TRX Suspension","instructor":"Peter Parker","duration":"40 min","description":"Bodyweight straps.","thumbnail":"https://picsum.photos/seed/trx1/300/200"},
+  {"id":16,"title":"Spin Class","instructor":"Lance Armstrong","duration":"45 min","description":"Indoor cycling.","thumbnail":"https://picsum.photos/seed/spin1/300/200"},
+  {"id":17,"title":"Kids Fitness","instructor":"Mickey Mouse","duration":"30 min","description":"Active games.","thumbnail":"https://picsum.photos/seed/kids1/300/200"},
+  {"id":18,"title":"Senior Mobility","instructor":"Betty White","duration":"30 min","description":"Gentle movements.","thumbnail":"https://picsum.photos/seed/senior1/300/200"},
+  {"id":19,"title":"CrossFit WOD","instructor":"Annie Thorisdottir","duration":"25 min","description":"Daily workout.","thumbnail":"https://picsum.photos/seed/crossfit1/300/200"},
+  {"id":20,"title":"Mindful Running","instructor":"Eliud Kipchoge","duration":"60 min","description":"Running with breath.","thumbnail":"https://picsum.photos/seed/run1/300/200"}
+]
